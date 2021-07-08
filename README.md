@@ -1,3 +1,3 @@
 # RESTAURANTE
  Site para encontrar restaurantes usando Google Maps que consulta API do Google.
- PROJETO DIO - PATRICK NARCISO
+ PROJETO DIO - PATRICK NARCISO.
